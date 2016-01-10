@@ -1,5 +1,9 @@
-Master Thesis
-=============
+Open Source in Master Thesis
+============================
+
+| Author         | NIM      |
+|----------------|----------|
+| M Haidar Hanif | 92315021 |
 
 Key topics
 ----------

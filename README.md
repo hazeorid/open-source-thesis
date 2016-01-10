@@ -12,7 +12,20 @@ Key topics
 + Role
 + Evaluation
 + Implementation
-+ Holacracy
+
+Key phenomenoms
+---------------
+
+...
+
+*  *  *
+
+Documents
+---------
+
++ Schedule: https://airtable.com/shrpNsPvlIUP4H1QQ
++ Bibliography: https://airtable.com/shreuDEaTvMYF1p2g
++ Gingko map: https://gingkoapp.com/rozvei
 
 *  *  *
 
@@ -23,10 +36,6 @@ Resources
 
 + http://openthesis.org
 + https://oatd.org
-
-### Main
-
-https://airtable.com/shreuDEaTvMYF1p2g
 
 ### Additionals
 
